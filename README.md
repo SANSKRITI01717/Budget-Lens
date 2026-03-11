@@ -1,9 +1,8 @@
 # Budget-Lens
 This is a corruption detector system for engineering colleges. Made for a hackathon purpose.
-# BudgetLens 🔍
 ### Transparency in College Funding
 
-Built for  Online Hackathon
+
 
 ## About
 BudgetLens is a student complaint-based corruption detection 
